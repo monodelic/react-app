@@ -1,9 +1,10 @@
 import React from 'react';
+import styles from './App.modules.scss';
+import cn from 'classnames';
+import './index.css';
 
-export const App = () => {
-  return (
-    <div>
-      This is App Component!
-    </div>
-  )
+const App = () => {
+  return <div className={cn(styles.title)}>This is App Component</div>;
 };
+
+export default App;

@@ -1,2 +1,1 @@
-# pokemon_desk
-This is tutorial app for ReactJS Pro Edition Marathon.
+# React Marathon. Day 1.
